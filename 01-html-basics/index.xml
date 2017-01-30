@@ -44,11 +44,13 @@
       
       <guid>https://fewd-1-11-17.github.io/01-html-basics/agenda/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Tools Overview &amp;amp; Folder Organization&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;HTML Structure&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Git Overview&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Overview of basic HTML Tags&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;GitHub Tutorial&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Code Along (GA Press Release)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lab (Cookie Recipe)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -445,7 +447,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;As a class, we&amp;rsquo;ll walk through using html to build out an html version of a press release&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Using Sublime, open the folder called &lt;strong&gt;ga_press_release&lt;/strong&gt; files for this exercise can be found in your &lt;strong&gt;starter_code&lt;/strong&gt; folder&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Using Sublime, open the folder called &lt;strong&gt;ga_press_release&lt;/strong&gt; (found within the &lt;strong&gt;starter_code&lt;/strong&gt;) folder&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

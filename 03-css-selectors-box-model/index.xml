@@ -24,24 +24,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://fewd-1-11-17.github.io/03-css-selectors-box-model/homework/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fewd-1-11-17.github.io/03-css-selectors-box-model/homework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fewd-1-11-17.github.io/03-css-selectors-box-model/lab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fewd-1-11-17.github.io/03-css-selectors-box-model/lab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Objectives</title>
       <link>https://fewd-1-11-17.github.io/03-css-selectors-box-model/objectives/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
@@ -322,6 +304,76 @@ p {
 &lt;/ul&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Selector&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Meaning&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Example&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Universal Selector&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Applies to all elements&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;*{}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Type Selector&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Match elements names&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;h1, h2, h3 {}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Class Selector&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Matches all elements with a class attribute value matching on specified after a period (.)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;.hint {}&lt;/code&gt;, &lt;code&gt;p.hint {}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;ID Selector&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Matches all elements with a id attribute value matching on specified after a hash (#)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;#offer {}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Child Selector&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Matches elements that are a direct child of another&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;li &amp;gt; a {}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Descendant Selector&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Matches element that is a direct descendant of another (not just the child)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;p  a {}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Adjacent Sibling Selector&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Matches first element that is a sibling of another&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;h1+p {}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;General Sibling Selector&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Matches all elements that is a sibling of another&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;h1~p {}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Attribute Selector&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Attribute selectors select an element using the presence of a given attribute or attribute value&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;input[type=&amp;quot;email&amp;quot;] {}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;A complete list of all CSS Selectors can be found &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -467,6 +519,108 @@ p {
       <description>
 
 &lt;h2 id=&#34;css-box-model&#34;&gt;CSS Box Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Understanding the CSS Box Model is key to understanding how CSS works&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Going forward, you should &lt;strong&gt;view every element as a box&lt;/strong&gt; (because that&amp;rsquo;s how browsers view them)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/03/box_model_example_no_lines.png&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/03/box_model_example_lines.png&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Block elements in the image are outlined in red, while inline elements are outlined in green&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Every element is a box, some boxes contain other boxes &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; or &lt;code&gt;&amp;lt;article&amp;gt;&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;CSS allows you to create rules the control each individual box&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--- Block elements (by default) start on the a new line | &lt;body&gt;&lt;p&gt;&lt;h1&gt; tags are examples of block elements--&gt;
+
+&lt;!--- Inline elements Flow within the text and do not start on a new line Examples of inline elements include: &lt;a&gt;, &lt;span&gt;, &lt;img&gt;, &lt;b&gt;--&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;box-model-consists-of&#34;&gt;Box Model consists of:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Margin&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Padding&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Border&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/03/box_model_diagram.gif&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;margin&#34;&gt;Margin&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Margins sit outside the edge of your border&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Create a gap between the edges of two adjacent boxes&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;padding&#34;&gt;Padding&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Padding is the space between the border of a box and any content contained within it.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Adding padding helps to increase readability of a box’s content&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;border&#34;&gt;Border&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Every box has a border, even if it is invisible (0 pixels wide)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Borders separates the edge of one box from another&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>https://fewd-1-11-17.github.io/03-css-selectors-box-model/code-along/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>https://fewd-1-11-17.github.io/03-css-selectors-box-model/code-along/</guid>
+      <description>
+
+&lt;h2 id=&#34;code-along&#34;&gt;Code Along&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>https://fewd-1-11-17.github.io/03-css-selectors-box-model/lab/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>https://fewd-1-11-17.github.io/03-css-selectors-box-model/lab/</guid>
+      <description>
+
+&lt;h2 id=&#34;lab&#34;&gt;Lab&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Homework</title>
+      <link>https://fewd-1-11-17.github.io/03-css-selectors-box-model/homework/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>https://fewd-1-11-17.github.io/03-css-selectors-box-model/homework/</guid>
+      <description>
+
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
 </description>
     </item>
     

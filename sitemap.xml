@@ -67,6 +67,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/objectives/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/02-css-basics/agenda/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -77,12 +82,32 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/agenda/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/last-class-review/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/01-html-basics/tag-overview/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/css-intro-review/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/code-along-1/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/block-inline-elements/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
@@ -103,6 +128,16 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/css-selectors/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/containing-elements/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/semantic-elements/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
@@ -142,6 +177,36 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/css-floats/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/code-along/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/code-along-2/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/lab/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/lab/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/homework/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -157,11 +222,8 @@
   </url>
   
   <url>
-    <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/homework/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/lab/</loc>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
@@ -184,6 +246,12 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/04-page-layout/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
     <priority>0</priority>
   </url>

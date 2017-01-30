@@ -62,11 +62,13 @@
       
       <guid>https://fewd-1-11-17.github.io/01-html-basics/agenda/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Tools Overview &amp;amp; Folder Organization&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;HTML Structure&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Git Overview&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Overview of basic HTML Tags&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;GitHub Tutorial&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Code Along (GA Press Release)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lab (Cookie Recipe)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -660,6 +662,24 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
     </item>
     
     <item>
+      <title>Objectives</title>
+      <link>https://fewd-1-11-17.github.io/04-page-layout/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>https://fewd-1-11-17.github.io/04-page-layout/objectives/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Discuss concept of page structure &amp;amp; layouts&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Understand how divs are used&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Introduce semantic elements and how they are used&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Introduce CSS floats&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Agenda</title>
       <link>https://fewd-1-11-17.github.io/02-css-basics/agenda/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
@@ -671,28 +691,6 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Relative Paths&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Intro to CSS&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Agenda</title>
-      <link>https://fewd-1-11-17.github.io/03-css-selectors-box-model/agenda/</link>
-      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
-      
-      <guid>https://fewd-1-11-17.github.io/03-css-selectors-box-model/agenda/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;CSS Intro Review&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Classes and IDs&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;CSS Selectors Overview&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Box Model&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Code Along: Tags &amp;amp; Boxes&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Using Images with CSS&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
