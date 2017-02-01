@@ -30,7 +30,11 @@
       
       <guid>https://fewd-1-11-17.github.io/05-css-positioning-and-colors/objectives/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;xxx&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Introduce CSS Colors&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Discuss CSS Positioning&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Understand how to handle background images&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -42,7 +46,19 @@
       
       <guid>https://fewd-1-11-17.github.io/05-css-positioning-and-colors/agenda/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;xxx&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Review last class&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Review Layout Challenge&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;CSS Colors&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;CSS Positioning&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Background Images&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Code Along&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lab&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
