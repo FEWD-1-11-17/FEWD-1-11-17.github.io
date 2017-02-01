@@ -83,7 +83,7 @@
 &lt;li&gt;&lt;p&gt;Selectors are case sensitive, must match element names and attributes exactly&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -155,7 +155,7 @@
 &lt;/div&gt;
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;css-box-model&#34;&gt;CSS Box Model&lt;/h2&gt;
 
@@ -181,7 +181,7 @@
 
 &lt;!--- Inline elements Flow within the text and do not start on a new line Examples of inline elements include: &lt;a&gt;, &lt;span&gt;, &lt;img&gt;, &lt;b&gt;--&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;box-model-consists-of&#34;&gt;Box Model consists of:&lt;/h3&gt;
 
@@ -195,7 +195,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/03/box_model_diagram.gif&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;margin&#34;&gt;Margin&lt;/h3&gt;
 
@@ -205,7 +205,7 @@
 &lt;li&gt;&lt;p&gt;Create a gap between the edges of two adjacent boxes&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;padding&#34;&gt;Padding&lt;/h3&gt;
 
@@ -215,7 +215,7 @@
 &lt;li&gt;&lt;p&gt;Adding padding helps to increase readability of a box’s content&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;border&#34;&gt;Border&lt;/h3&gt;
 
@@ -267,7 +267,7 @@
 &lt;/div&gt;
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;inline-elements&#34;&gt;Inline Elements&lt;/h2&gt;
 
@@ -287,7 +287,7 @@
 &lt;/div&gt;
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;inline-block&#34;&gt;Inline-Block&lt;/h2&gt;
 
@@ -298,6 +298,8 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a class=&#34;jsbin-embed&#34; href=&#34;https://jsbin.com/vocasel/embed?css,output&#34;&gt;JS Bin on jsbin.com&lt;/a&gt;&lt;script src=&#34;https://static.jsbin.com/js/embed.min.js?3.41.0&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;changing-default-layout-behavior-of-elements&#34;&gt;Changing Default Layout Behavior of Elements&lt;/h2&gt;
 
@@ -343,7 +345,7 @@ p.customer-logos {
 
 &lt;p&gt;In example the above example, orange lines represent &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; tags&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;div&#34;&gt;&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;&lt;/h2&gt;
 
@@ -378,7 +380,7 @@ p.customer-logos {
 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;structure-using-div-s&#34;&gt;Structure using &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;s&lt;/h2&gt;
 
@@ -441,7 +443,7 @@ p.customer-logos {
 &lt;li&gt;Floats are a common way of creating multi-column layouts&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;floating-guidelines&#34;&gt;Floating Guidelines&lt;/h2&gt;
 
@@ -453,7 +455,7 @@ p.customer-logos {
 &lt;li&gt;&lt;p&gt;Elements that sit below will wrap around the floated element, it prevent this you must &lt;strong&gt;clear the float&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;adding-floats-using-css&#34;&gt;Adding floats using CSS&lt;/h2&gt;
 
@@ -467,7 +469,7 @@ blockquote {
 
 &lt;p&gt;&lt;strong&gt;float&lt;/strong&gt; is a css property, the most common values are left and right&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;float-example&#34;&gt;Float Example&lt;/h2&gt;
 
@@ -479,7 +481,7 @@ blockquote {
 
 &lt;p&gt;&lt;a class=&#34;jsbin-embed&#34; href=&#34;https://jsbin.com/bezosuj/embed?css,output&#34;&gt;JS Bin on jsbin.com&lt;/a&gt;&lt;script src=&#34;https://static.jsbin.com/js/embed.min.js?3.41.0&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;side-by-side-example&#34;&gt;Side by Side Example&lt;/h2&gt;
 
@@ -499,7 +501,7 @@ blockquote {
 &lt;li&gt;&lt;p&gt;Fix: using the &lt;strong&gt;clear&lt;/strong&gt; property&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;clearing-floats-examples&#34;&gt;Clearing Floats Examples&lt;/h2&gt;
 
@@ -521,7 +523,7 @@ blockquote {
 
 &lt;p&gt;&lt;a class=&#34;jsbin-embed&#34; href=&#34;https://jsbin.com/vuzuriz/embed?css,output&#34;&gt;JS Bin on jsbin.com&lt;/a&gt;&lt;script src=&#34;https://static.jsbin.com/js/embed.min.js?3.41.0&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;parent-container-issue&#34;&gt;Parent Container Issue&lt;/h2&gt;
 
@@ -539,7 +541,7 @@ blockquote {
 &lt;li&gt;&lt;p&gt;As a result, the border is not displayed correctly&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;parent-container-issue-resolved&#34;&gt;Parent Container Issue - Resolved&lt;/h2&gt;
 

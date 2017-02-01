@@ -69,11 +69,11 @@
 
 &lt;!--- Structure helps readers better understand the stories written in the newspaper--&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/01/word_processor.png&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/01/structure_html_version.png&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
 
@@ -146,7 +146,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;They have two parts: name, value&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;attribute-structure&#34;&gt;Attribute Structure&lt;/h2&gt;
 
@@ -166,7 +166,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;example-of-a-html-attribute&#34;&gt;Example of a HTML Attribute&lt;/h2&gt;
 
@@ -239,7 +239,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/01/html_structure_browser.png&#34; alt=&#34;original left fit&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;html-headings&#34;&gt;HTML Headings&lt;/h2&gt;
 
@@ -275,7 +275,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/01/headings_browser.png&#34; alt=&#34;original left fit&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;paragraphs&#34;&gt;Paragraphs&lt;/h2&gt;
 
@@ -304,7 +304,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/01/paragraphs_example_browser.png&#34; alt=&#34;original left fit&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
 
@@ -349,7 +349,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;list items elements are always a child a list element (in this case the “unordered list” or ul element.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 
@@ -378,7 +378,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/01/links_browser.png&#34; alt=&#34;original left fit&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
 
@@ -414,7 +414,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;.jpeg - No transparency, can be stored at different compression levels with varying amounts of &amp;ldquo;lossy-ness&amp;rdquo;, typically the best format for photos&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;many-more-tags&#34;&gt;Many more tags&lt;/h2&gt;
 

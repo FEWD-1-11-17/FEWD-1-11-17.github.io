@@ -87,11 +87,11 @@
 
 &lt;!--- Structure helps readers better understand the stories written in the newspaper--&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/01/word_processor.png&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/01/structure_html_version.png&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
 
@@ -157,7 +157,7 @@
 &lt;li&gt;&lt;p&gt;SVN (subversion) and CVS are other version control programs (Git is the most popular)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;what-is-github&#34;&gt;What is Github?&lt;/h2&gt;
 
@@ -171,7 +171,7 @@
 &lt;li&gt;&lt;p&gt;Morphed into a &amp;ldquo;social network&amp;rdquo; for developers&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;vocabulary&#34;&gt;Vocabulary&lt;/h2&gt;
 
@@ -187,7 +187,7 @@
 &lt;li&gt;Pull Request&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;respository&#34;&gt;Respository&lt;/h2&gt;
 
@@ -201,7 +201,7 @@
 &lt;li&gt;&lt;p&gt;Repositories can have multiple collaborators and can be either public or private.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;commit&#34;&gt;Commit&lt;/h2&gt;
 
@@ -213,7 +213,7 @@
 &lt;li&gt;&lt;p&gt;Commits usually contain a commit message which is a brief description of what changes were made&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;branch&#34;&gt;Branch&lt;/h2&gt;
 
@@ -225,7 +225,7 @@
 &lt;li&gt;&lt;p&gt;When you&amp;rsquo;ve made the changes you want to make, you can merge your branch back into the master branch to publish your changes&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;merge&#34;&gt;Merge&lt;/h2&gt;
 
@@ -235,7 +235,7 @@
 &lt;li&gt;&lt;p&gt;This often happens as a Pull Request (which can be thought of as a request to merge)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;push&#34;&gt;Push&lt;/h2&gt;
 
@@ -245,7 +245,7 @@
 &lt;li&gt;&lt;p&gt;For instance, if you change something locally, you&amp;rsquo;d want to then push those changes so that others may access them&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;pull&#34;&gt;Pull&lt;/h2&gt;
 
@@ -253,7 +253,7 @@
 &lt;li&gt;Pulls code from a remote repository and merges it with code in your local repository (on your computer)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;fork&#34;&gt;Fork&lt;/h2&gt;
 
@@ -263,7 +263,7 @@
 &lt;li&gt;&lt;p&gt;Most commonly, forks are used to either propose changes to someone else&amp;rsquo;s project or to use someone else&amp;rsquo;s project as a starting point for your own idea&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;clone&#34;&gt;Clone&lt;/h2&gt;
 
@@ -271,7 +271,7 @@
 &lt;li&gt;Copies a remote repository down to your computer and creates a link between the two&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;pull-request&#34;&gt;Pull Request&lt;/h2&gt;
 
@@ -593,7 +593,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;They have two parts: name, value&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;attribute-structure&#34;&gt;Attribute Structure&lt;/h2&gt;
 
@@ -613,7 +613,7 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;example-of-a-html-attribute&#34;&gt;Example of a HTML Attribute&lt;/h2&gt;
 
@@ -680,17 +680,13 @@ characters within the brackets indicates the tags purpose&lt;/li&gt;
     </item>
     
     <item>
-      <title>Agenda</title>
-      <link>https://fewd-1-11-17.github.io/02-css-basics/agenda/</link>
+      <title>Objectives</title>
+      <link>https://fewd-1-11-17.github.io/05-css-positioning-and-colors/objectives/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>https://fewd-1-11-17.github.io/02-css-basics/agenda/</guid>
+      <guid>https://fewd-1-11-17.github.io/05-css-positioning-and-colors/objectives/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;HTML Review Exercise&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Relative Paths&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Intro to CSS&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;xxx&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

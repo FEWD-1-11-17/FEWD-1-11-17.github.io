@@ -89,7 +89,7 @@
 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;anatomy-of-a-css-rule&#34;&gt;Anatomy of a CSS Rule&lt;/h2&gt;
 
@@ -109,7 +109,7 @@ h1, h2, h3 {
 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;adding-css-to-your-site&#34;&gt;Adding CSS to your site&lt;/h2&gt;
 
@@ -123,7 +123,7 @@ h1, h2, h3 {
 &lt;li&gt;&lt;p&gt;External file&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;add-css-using-an-external-stylesheet-recommended-best-practice&#34;&gt;Add CSS using an external stylesheet (Recommended/Best Practice)&lt;/h3&gt;
 
@@ -164,7 +164,7 @@ p {
 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;link-tag&#34;&gt;&lt;code&gt;&amp;lt;link&amp;gt;&lt;/code&gt; Tag&lt;/h3&gt;
 
@@ -206,7 +206,7 @@ p {
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; Use of the class or id attribute by itself does not change the appearance of an element; CSS/Javascript must be involved&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;class-attribute&#34;&gt;Class Attribute&lt;/h2&gt;
 
@@ -236,7 +236,7 @@ p {
 &lt;/div&gt;
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;id-attribute&#34;&gt;Id Attribute&lt;/h2&gt;
 
@@ -265,7 +265,7 @@ p {
 &lt;/div&gt;
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;naming-classes-and-ids&#34;&gt;Naming classes and ids&lt;/h2&gt;
 
@@ -273,7 +273,7 @@ p {
 &lt;li&gt;Developers can choose any name they want for classes and ids, however the names you choose should be descriptive&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;when-should-you-use-classes-instead-of-ids-or-vice-versa&#34;&gt;When should you use classes instead of ids (or vice versa)?&lt;/h2&gt;
 
@@ -303,7 +303,7 @@ p {
 &lt;li&gt;&lt;p&gt;Selectors are case sensitive, must match element names and attributes exactly&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -399,7 +399,7 @@ p {
 &lt;li&gt;&lt;p&gt;Inheritance&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;last-rule&#34;&gt;Last Rule&lt;/h2&gt;
 
@@ -437,7 +437,7 @@ p {
 
 &lt;p&gt;Here the &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; tag wil be green because the last &lt;strong&gt;conflicting&lt;/strong&gt; rule took precedent&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;specificity&#34;&gt;Specificity&lt;/h2&gt;
 
@@ -453,7 +453,7 @@ p {
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;important&#34;&gt;!important&lt;/h2&gt;
 
@@ -496,7 +496,7 @@ p {
 
 &lt;p&gt;Here we used the &lt;strong&gt;!important&lt;/strong&gt; option in CSS to override the &lt;strong&gt;Specificity guideline&lt;/strong&gt; that would have had the rule with the selector of &lt;code&gt;#thing&lt;/code&gt; take precedence under &lt;strong&gt;normal circumstances&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&#34;inheritance&#34;&gt;Inheritance&lt;/h2&gt;
 
@@ -542,7 +542,7 @@ p {
 
 &lt;!--- Inline elements Flow within the text and do not start on a new line Examples of inline elements include: &lt;a&gt;, &lt;span&gt;, &lt;img&gt;, &lt;b&gt;--&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;box-model-consists-of&#34;&gt;Box Model consists of:&lt;/h3&gt;
 
@@ -556,7 +556,7 @@ p {
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/03/box_model_diagram.gif&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;margin&#34;&gt;Margin&lt;/h3&gt;
 
@@ -566,7 +566,7 @@ p {
 &lt;li&gt;&lt;p&gt;Create a gap between the edges of two adjacent boxes&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;padding&#34;&gt;Padding&lt;/h3&gt;
 
@@ -576,7 +576,7 @@ p {
 &lt;li&gt;&lt;p&gt;Adding padding helps to increase readability of a box’s content&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&#34;border&#34;&gt;Border&lt;/h3&gt;
 
