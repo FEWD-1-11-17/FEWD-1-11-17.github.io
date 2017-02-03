@@ -458,7 +458,7 @@ If you set position: relative; on an element but no other positioning attributes
 
 &lt;li&gt;&lt;p&gt;Review the assignment &lt;a href=&#34;https://github.com/FEWD-1-11-17/homework-02-startup-matchmaker/blob/master/README.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Use process covered in the Git/Github Tutorial to submit your assignment&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use process covered in the [Git/Github Tutorial]() to submit your assignment&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
