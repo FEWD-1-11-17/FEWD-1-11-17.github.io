@@ -596,7 +596,11 @@ p {
       <guid>https://fewd-1-11-17.github.io/03-css-selectors-box-model/code-along/</guid>
       <description>
 
-&lt;h2 id=&#34;code-along&#34;&gt;Code Along&lt;/h2&gt;
+&lt;h2 id=&#34;code-along-tags-and-boxes&#34;&gt;Code Along: Tags and Boxes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Using Sublime, open the folder called &lt;strong&gt;tags_boxes&lt;/strong&gt; (found within the &lt;strong&gt;starter_code&lt;/strong&gt;) folder&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -608,7 +612,15 @@ p {
       <guid>https://fewd-1-11-17.github.io/03-css-selectors-box-model/lab/</guid>
       <description>
 
-&lt;h2 id=&#34;lab&#34;&gt;Lab&lt;/h2&gt;
+&lt;h2 id=&#34;lab-relaxr-blog&#34;&gt;Lab: Relaxr Blog&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Work individually or in teams to recreate the html page depicted in the image below.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The files for this lab can be found in the following folder: &lt;strong&gt;starter_code/relaxr_blog&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/05/relaxr_blog.jpg&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -620,7 +632,17 @@ p {
       <guid>https://fewd-1-11-17.github.io/03-css-selectors-box-model/homework/</guid>
       <description>
 
-&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;h2 id=&#34;homework-assignment-resume-website-for-a-famous-person&#34;&gt;Homework Assignment - Resume Website for a Famous Person&lt;/h2&gt;
+
+&lt;p&gt;Directions:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Fork the following respository: &lt;a href=&#34;https://github.com/FEWD-1-11-17/homework-01-famous-person-resume-website&#34;&gt;Homework #1&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Review the assignment &lt;a href=&#34;https://github.com/FEWD-1-11-17/homework-01-famous-person-resume-website/blob/master/README.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Use process covered in the &lt;a href=&#34;https://fewd-1-11-17.github.io/00-dev-tools-github/git-overview&#34;&gt;Git/Github Tutorial&lt;/a&gt; to submit your assignment&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
