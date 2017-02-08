@@ -87,6 +87,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/objectives/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/02-css-basics/agenda/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -122,6 +127,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/agenda/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/css-intro-review/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -137,6 +147,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/final-projects/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/06-intro-to-programming/what-is-programming/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -144,6 +159,11 @@
   <url>
     <loc>https://fewd-1-11-17.github.io/05-css-positioning-and-colors/layout-challenge-review/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/programming-protips/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
@@ -162,12 +182,22 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/dom-intro/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/02-css-basics/html-review-exercise/</loc>
     <lastmod>2017-01-22T18:08:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://fewd-1-11-17.github.io/06-intro-to-programming/class-exercise/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/jquery-intro/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -197,6 +227,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/adding-jquery/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/06-intro-to-programming/group-exercise/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -209,6 +244,11 @@
   <url>
     <loc>https://fewd-1-11-17.github.io/03-css-selectors-box-model/css-cascading-guidelines/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/dollar-sign-function/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
   <url>
@@ -247,12 +287,22 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/document-ready/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/01-html-basics/lab/</loc>
     <lastmod>2017-01-22T18:08:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://fewd-1-11-17.github.io/06-intro-to-programming/lab/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/jquery-in-action/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -282,12 +332,27 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/code-along/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/lab/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/04-page-layout/code-along-2/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://fewd-1-11-17.github.io/05-css-positioning-and-colors/homework/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/homework/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
@@ -337,6 +402,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/04-page-layout/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -379,6 +449,12 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/06-intro-to-programming/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/07-intro-to-jquery/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
     <priority>0</priority>
   </url>
