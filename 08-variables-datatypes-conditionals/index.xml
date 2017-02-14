@@ -280,7 +280,7 @@ var score = 0;
 var score = 0;
 
 // changing the value of the score variable from 0 to 3
-var score = 3;
+score = 3;
 
 &lt;/code&gt;&lt;/pre&gt;
 
@@ -589,10 +589,10 @@ var myDog = {
 &lt;/ul&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;
-var myDog = {
-	name: &amp;quot;Fido&amp;quot;,
-	age: 4,
-	speak: function() {
+var myDog = { 
+  name: &amp;quot;Fido&amp;quot;,
+  age: 4,
+  speak: function() {
      console.log(&#39;Woof woof&#39;);
 	} 
 }
@@ -681,6 +681,8 @@ myDog.speak();
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/08/comparison_operators.png&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/08/comparison_operators_2.png&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;jsbin-embed&#34; href=&#34;https://jsbin.com/vejivo/embed?js,console&#34;&gt;JS Bin on jsbin.com&lt;/a&gt;&lt;script src=&#34;https://static.jsbin.com/js/embed.min.js?3.41.0&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -703,6 +705,8 @@ myDog.speak();
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://fewd-1-11-17.github.io/images/08/logical_operators.png&#34; alt=&#34;inline&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;jsbin-embed&#34; href=&#34;https://jsbin.com/yoyuzug/embed?js,console&#34;&gt;JS Bin on jsbin.com&lt;/a&gt;&lt;script src=&#34;https://static.jsbin.com/js/embed.min.js?3.41.0&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -757,6 +761,8 @@ if(brushedTeeth){
 
 &lt;/code&gt;&lt;/pre&gt;
 
+&lt;p&gt;&lt;a class=&#34;jsbin-embed&#34; href=&#34;https://jsbin.com/bofidag/embed?js,console&#34;&gt;JS Bin on jsbin.com&lt;/a&gt;&lt;script src=&#34;https://static.jsbin.com/js/embed.min.js?3.41.0&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
 
 &lt;h2 id=&#34;if-else-if-statements&#34;&gt;if / else if statements&lt;/h2&gt;
@@ -785,6 +791,8 @@ if (yourGrade &amp;gt;= 90) {
 
 
 &lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a class=&#34;jsbin-embed&#34; href=&#34;https://jsbin.com/relane/embed?js,console&#34;&gt;JS Bin on jsbin.com&lt;/a&gt;&lt;script src=&#34;https://static.jsbin.com/js/embed.min.js?3.41.0&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
