@@ -501,6 +501,10 @@ function handleFormSubmision(event){
 
 &lt;h2 id=&#34;what-are-anonymous-functions&#34;&gt;What are Anonymous Functions?&lt;/h2&gt;
 
+&lt;ul&gt;
+&lt;li&gt;Functions that do not have a name&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;
 // An anonymous function is a function without a name
 
