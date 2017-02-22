@@ -501,10 +501,6 @@ function handleFormSubmision(event){
 
 &lt;h2 id=&#34;what-are-anonymous-functions&#34;&gt;What are Anonymous Functions?&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Functions that do not have a name&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;
 // An anonymous function is a function without a name
 
@@ -532,12 +528,16 @@ area(4, 5); // returns 20
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Use for code that only needs to run once within a task&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Use as event handlers and listeners to perform a task when an event occurs&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use as an event handlers to perform a task when an event occurs&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;Event handlers are functions that are called when an event is triggered&lt;/p&gt;
+&lt;/div&gt;
+
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;using-an-anonymous-function-as-an-event-handler-listener&#34;&gt;Using an anonymous function as an event handler/listener&lt;/h2&gt;
+&lt;h2 id=&#34;using-an-anonymous-function-as-an-event-handler&#34;&gt;Using an anonymous function as an event handler&lt;/h2&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;
 // Uses a *named function* to serve as a event handler (function that is called as a result of an event)
@@ -548,6 +548,9 @@ function blueEffect(){
   $(&#39;body&#39;).css(&#39;background-color&#39;, &#39;blue&#39;);
 };
 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;
 
 // Results are same as above example, but instead we use an anonymous function as a click handler
 // This is the common jQuery pattern
@@ -555,7 +558,6 @@ function blueEffect(){
 $(&#39;#blueButton&#39;).click(function(){
   $(&#39;body&#39;).css(&#39;background-color&#39;, &#39;blue&#39;);
 });
-
 
 &lt;/code&gt;&lt;/pre&gt;
 </description>
