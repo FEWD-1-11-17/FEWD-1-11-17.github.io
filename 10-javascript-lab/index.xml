@@ -264,7 +264,7 @@ $(&#39;#blueButton&#39;).click(function(){
 &lt;h2 id=&#34;lab-weather-appliction&#34;&gt;Lab: Weather Appliction&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;You will build a Weather Application takes a Celsius temperature input and converts it to Fahrenheit and changes the background image according to the weather.&lt;/li&gt;
+&lt;li&gt;You will build a Weather Application that converts a Celsius temperature input by a user to Fahrenheit and changes the background image according to the weather.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -272,8 +272,8 @@ $(&#39;#blueButton&#39;).click(function(){
 &lt;h3 id=&#34;requirments&#34;&gt;Requirments&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;App will takes Celsius temperature and converts it to Fahrenheit&lt;/li&gt;
-&lt;li&gt;App will change the background image of the page to match new temperature&lt;/li&gt;
+&lt;li&gt;App will take Celsius temperature (via user input) and convert it to Fahrenheit&lt;/li&gt;
+&lt;li&gt;App will change the background image of the page to match the new temperature&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Please Note: The layout and &amp;ldquo;look and feel&amp;rdquo; of the application is totally up to you as long as you meet the requirements above&lt;/p&gt;
@@ -316,13 +316,13 @@ $(&#39;#blueButton&#39;).click(function(){
 
 &lt;ol&gt;
 &lt;li&gt;Set up your projects (folder structure)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;write the code&lt;/strong&gt; that will do the following process temperature (in Celsius) input by a user and convert that temparature to Fahrenheit and&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write the code&lt;/strong&gt; that will do the following process temperature (in Celsius) input by a user and convert that temparature to Fahrenheit and&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Display the result on the screen&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Timebox: 60 minutes&lt;/p&gt;
 
-&lt;p&gt;Note: While you will be working with a partner, each student should their own copy of the project on their computers&lt;/p&gt;
+&lt;p&gt;Note: While you will be working with a partner, each student should have their own copy of the project on their computers&lt;/p&gt;
 </description>
     </item>
     
@@ -338,13 +338,17 @@ $(&#39;#blueButton&#39;).click(function(){
 
 &lt;ol&gt;
 &lt;li&gt;Complete the application by adding logic that changes the background image to reflect the converted temperature&lt;/li&gt;
-&lt;li&gt;Example: If the converted temperature is 10 F (degrees) the background image should represent something cold&lt;/li&gt;
-&lt;li&gt;Make the application your own - choose your own background images&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Example: If the converted temperature is 10 F (degrees) the background image should represent something cold&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Make the application your own - choose your own background images&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Timebox: 20 minutes&lt;/p&gt;
 
-&lt;p&gt;Note: While you will be working with a partner, each student should their own copy of the project on their computers&lt;/p&gt;
+&lt;p&gt;Note: While you will be working with a partner, each student should have their own copy of the project on their computers&lt;/p&gt;
 </description>
     </item>
     
