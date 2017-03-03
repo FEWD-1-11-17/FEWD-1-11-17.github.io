@@ -491,14 +491,38 @@ flex-flow: row wrap
     </item>
     
     <item>
-      <title>Homework</title>
-      <link>https://fewd-1-11-17.github.io/12-flexbox/homework/</link>
-      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      <title>Homework #1</title>
+      <link>https://fewd-1-11-17.github.io/12-flexbox/homework-1/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
       
-      <guid>https://fewd-1-11-17.github.io/12-flexbox/homework/</guid>
+      <guid>https://fewd-1-11-17.github.io/12-flexbox/homework-1/</guid>
       <description>
 
-&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;h2 id=&#34;homework-assignment-layout-challenge-with-flexbox&#34;&gt;Homework Assignment - Layout Challenge with Flexbox&lt;/h2&gt;
+
+&lt;p&gt;Directions:&lt;/p&gt;
+
+&lt;p&gt;1) Fork the following respository:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/FEWD-1-11-17/homework-05-layout-challenge-flexbox&#34;&gt;Homework #5&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Review the assignment &lt;a href=&#34;https://github.com/FEWD-1-11-17/homework-05-layout-challenge-flexbox/blob/master/README.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Use process covered in the Git/Github Tutorial to submit your assignment&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Homework #2</title>
+      <link>https://fewd-1-11-17.github.io/12-flexbox/homework-2/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>https://fewd-1-11-17.github.io/12-flexbox/homework-2/</guid>
+      <description>
+
+&lt;h2 id=&#34;homework-2&#34;&gt;Homework #2&lt;/h2&gt;
 
 &lt;p&gt;The next milestone for your Final Project deliverables includes completing the following steps&lt;/p&gt;
 
