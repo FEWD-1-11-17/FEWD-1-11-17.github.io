@@ -122,6 +122,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/objectives/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/02-css-basics/agenda/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -192,6 +197,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/agenda/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/08-variables-datatypes-conditionals/last-class-review/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -233,6 +243,11 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/12-flexbox/flexbox-overview/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/lab-overview/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -347,6 +362,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/milestone-1/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/13-responsive-design/mobile-websites/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -383,6 +403,11 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/10-javascript-lab/milestone-2/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/milestone-2/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -447,6 +472,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/milestone-3/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/09-functions/returning-values-from-functions/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -473,6 +503,11 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/10-javascript-lab/bonus-milestone/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/bonus-milestone/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -573,6 +608,11 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/10-javascript-lab/homework/</loc>
+    <lastmod>2017-01-22T18:05:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/homework/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
   
@@ -812,6 +852,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/08-variables-datatypes-conditionals/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -896,6 +941,12 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/13-responsive-design/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
     <priority>0</priority>
   </url>
