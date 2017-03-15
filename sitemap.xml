@@ -132,6 +132,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/16-firebase/objectives/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/02-css-basics/agenda/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -212,6 +217,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/16-firebase/agenda/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/08-variables-datatypes-conditionals/last-class-review/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -262,6 +272,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/16-firebase/json/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/14-responsive-design-lab/lab-overview/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -303,6 +318,11 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/08-variables-datatypes-conditionals/data-types/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/16-firebase/firebase-overview/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -397,6 +417,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/16-firebase/real-time-database/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/02-css-basics/html-review-exercise/</loc>
     <lastmod>2017-01-22T18:08:00-05:00</lastmod>
   </url>
@@ -412,7 +437,17 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/16-firebase/code-along-1/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/08-variables-datatypes-conditionals/code-along-2/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/16-firebase/code-along-2/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -857,6 +892,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/16-firebase/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/12-flexbox/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -1003,6 +1043,12 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/15-forms/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/16-firebase/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
     <priority>0</priority>
   </url>
