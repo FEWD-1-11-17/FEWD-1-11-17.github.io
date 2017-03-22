@@ -142,6 +142,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/18-final-projects-lab/objectives/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/02-css-basics/agenda/</loc>
     <lastmod>2017-01-22T18:05:18-05:00</lastmod>
   </url>
@@ -228,6 +233,11 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/17-todo-application/agenda/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/18-final-projects-lab/agenda/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -452,6 +462,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/18-final-projects-lab/code-demos/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/16-firebase/code-along-1/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -548,6 +563,11 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/06-intro-to-programming/group-exercise/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/18-final-projects-lab/lab/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
   
@@ -907,6 +927,11 @@
   </url>
   
   <url>
+    <loc>https://fewd-1-11-17.github.io/18-final-projects-lab/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fewd-1-11-17.github.io/16-firebase/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
   </url>
@@ -1075,6 +1100,12 @@
   
   <url>
     <loc>https://fewd-1-11-17.github.io/17-todo-application/</loc>
+    <lastmod>2017-01-22T18:04:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fewd-1-11-17.github.io/18-final-projects-lab/</loc>
     <lastmod>2017-01-22T18:04:24-05:00</lastmod>
     <priority>0</priority>
   </url>
